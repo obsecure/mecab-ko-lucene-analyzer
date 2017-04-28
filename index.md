@@ -16,6 +16,10 @@ ES 5.3.2용 analysis-mecab-ko 플러그인이 아직 은전한닢 페이지에�
 ## Header 2
 ### 참고사이트
 
+http://www.kwangsiklee.com/ko/2017/01/852/
+https://bitbucket.org/eunjeon/mecab-ko-lucene-analyzer/issues/7/elasticsearch-520
+https://goo.gl/stVNcP
+
 - Bulleted
 - List
 
