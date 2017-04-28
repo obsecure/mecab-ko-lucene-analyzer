@@ -20,11 +20,6 @@ ES 5.3.2용 analysis-mecab-ko 플러그인이 아직 은전한닢 페이지에�
 - https://bitbucket.org/eunjeon/mecab-ko-lucene-analyzer/issues/7/elasticsearch-520
 - https://goo.gl/stVNcP
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
