@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+## elasticsearch-analysis-mecab-ko
 
-You can use the [editor on GitHub](https://github.com/obsecure/mecab-ko-lucene-analyzer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+mecab-ko analysis for ElasticSearch
+mecab-ko Analysis Plugin은 mecab-ko-lucene-analyzer를 elasticsearch에서 사용하는 플러그인 입니다.
+이 플러그인은 mecab_ko_standard_tokenizer를 포함하고 있습니다.
+elasticsearch 5.3.2 버전 기준으로 작성되었습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+analysis-mecab-ko 플러그인 설치
 
-### Markdown
+ES 5.3.2용 analysis-mecab-ko 플러그인이 아직 은전한닢 페이지에서 개발이 되어 있지 않은 관계로 직접 소스코드로 5.2.0 플러그인을 빌드하였다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+http://www.kwangsiklee.com/ko/2017/01/852/
 
-```markdown
-Syntax highlighted code block
+https://bitbucket.org/eunjeon/mecab-ko-lucene-analyzer/issues/7/elasticsearch-520
+
 
 # Header 1
 ## Header 2
